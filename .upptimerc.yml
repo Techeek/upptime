@@ -3,41 +3,42 @@ owner: techeek # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: 科地15
+  - name: Acorid15
     url: https://odoo15.acorid.cn
-  - name: 科地17
+  - name: Acorid17
     url: https://odoo17.acorid.cn
-  - name: 国际蓝孩
+  - name: baby-international
     url: https://www.baby-international.com
-  - name: 嘉雅
+  - name: JAIA
     url: http://120.79.228.48
-  - name: 晶测
+  - name: wuliucat
     url: http://od.wuliucat.com
-  - name: 隆测
-    url: https://lontry.einfo-tech.com/
-  - name: 摩尔机电
-    url: https://www.qy-smt.com/
-  - name: 欧派家具
-    url: http://oppeincabinet.ca/
-  - name: 瑞丰冷链
-    url: https://ruifengcc.cn/
-  - name: 依贝斯标识
-    url: http://www.ebs-erp.cn:8013/
+  - name: lontry
+    url: https://lontry.einfo-tech.com
+  - name: qy-smt
+    url: https://www.qy-smt.com
+  - name: oppeincabinet
+    url: http://oppeincabinet.ca
+  - name: ruifengcc
+    url: https://ruifengcc.cn
+  - name: ebs-erp
+    url: http://www.ebs-erp.cn:8013
   - name: EMPower
-    url: https://www.emlitpe.net/
+    url: https://www.emlitpe.net
   - name: loyalcat
-    url: https://www.loyalcat.cn/
+    url: https://www.loyalcat.cn
   - name: MJW
-    url: http://202.96.173.134:8069/web/login
+    url: http://202.96.173.134:8069
   - name: OTW
-    url: https://www.otwtech.com.au/
+    url: https://www.otwtech.com.au
   - name: Sinefine
-    url: https://www.sinefine.store/
-  - name: 安达康
-    url: https://portal.icintracom.com.tw/
-  - name: EBIke
-    url: http://erp.sparkcotech.com/
-
+    url: https://www.sinefine.store
+  - name: icintracom
+    url: https://portal.icintracom.com.tw
+  - name: E-bike
+    url: http://erp.sparkcotech.com
+  - name: XCMG
+    url: http://odoo.xcmgpng.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
