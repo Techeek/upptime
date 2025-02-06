@@ -42,4 +42,3 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
-  name: Upptime
