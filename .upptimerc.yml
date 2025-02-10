@@ -39,6 +39,8 @@ sites:
     url: http://erp.sparkcotech.com
   - name: XCMG
     url: http://odoo.xcmgpng.com
+  - name: LongHua
+    url: https://longhua.einfo-tech.com/
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
