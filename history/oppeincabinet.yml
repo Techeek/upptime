@@ -1,7 +1,7 @@
 url: http://oppeincabinet.ca
-status: up
-code: 200
-responseTime: 611
-lastUpdated: 2025-02-12T23:01:51.208Z
+status: down
+code: 502
+responseTime: 485
+lastUpdated: 2025-02-13T19:00:29.729Z
 startTime: 2025-02-06T05:44:07.844Z
 generator: Upptime <https://github.com/upptime/upptime>
