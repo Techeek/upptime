@@ -15,8 +15,8 @@ sites:
     url: http://od.wuliucat.com
   - name: lontry
     url: https://lontry.einfo-tech.com
-  # - name: qy-smt
-  #   url: https://www.qy-smt.com
+  - name: qy-smt
+    url: https://www.qy-smt.com
   - name: oppeincabinet
     url: http://oppeincabinet.ca
   - name: ruifeng
