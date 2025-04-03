@@ -117,18 +117,19 @@
     "url": "https://www.qy-smt.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.qy-smt.com.ico",
     "slug": "qy-smt",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "95.44%",
+    "uptimeDay": "95.41%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 233,
-    "timeDay": 289,
-    "timeWeek": 279,
+    "timeDay": 284,
+    "timeWeek": 278,
     "timeMonth": 205,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2025-04-03": 1,
       "2025-04-02": 66,
       "2025-04-01": 319,
       "2025-03-31": 1440,
@@ -150,7 +151,7 @@
       "2025-03-15": 1035,
       "2025-03-14": 1318,
       "2025-03-13": 1440,
-      "2025-03-12": 567
+      "2025-03-12": 551
     }
   },
   {
