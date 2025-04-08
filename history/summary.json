@@ -229,9 +229,9 @@
     "url": "https://www.otwtech.com.au",
     "icon": "https://icons.duckduckgo.com/ip3/www.otwtech.com.au.ico",
     "slug": "otw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -240,7 +240,9 @@
     "timeWeek": 2304,
     "timeMonth": 1994,
     "timeYear": 1922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-08": 0
+    }
   },
   {
     "name": "Sinefine",
