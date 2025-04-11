@@ -291,19 +291,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.sparkcotech.com.ico",
     "slug": "e-bike",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 697,
     "timeDay": 982,
     "timeWeek": 670,
     "timeMonth": 669,
     "timeYear": 697,
-    "dailyMinutesDown": {
-      "2025-04-11": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XCMG",
@@ -328,9 +326,9 @@
     "url": "https://longhua.einfo-tech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/longhua.einfo-tech.com.ico",
     "slug": "long-hua",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -339,6 +337,8 @@
     "timeWeek": 1968,
     "timeMonth": 1982,
     "timeYear": 1921,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-11": 0
+    }
   }
 ]
