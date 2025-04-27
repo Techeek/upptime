@@ -4,10 +4,10 @@
     "url": "https://odoo15.acorid.cn",
     "icon": "https://icons.duckduckgo.com/ip3/odoo15.acorid.cn.ico",
     "slug": "acorid15",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2837,
@@ -15,7 +15,9 @@
     "timeWeek": 2740,
     "timeMonth": 2791,
     "timeYear": 2837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-27": 1
+    }
   },
   {
     "name": "Acorid17",
@@ -330,7 +332,7 @@
     "uptime": "79.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.16%",
-    "uptimeMonth": "48.71%",
+    "uptimeMonth": "48.69%",
     "uptimeYear": "79.41%",
     "time": 1921,
     "timeDay": 0,
@@ -338,7 +340,7 @@
     "timeMonth": 1880,
     "timeYear": 1921,
     "dailyMinutesDown": {
-      "2025-04-27": 27,
+      "2025-04-27": 38,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
